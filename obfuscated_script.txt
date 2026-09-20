@@ -1,5 +1,4 @@
--- Heavy-obfuscated LuaU loader.
--- The payload is encoded and split so the readable source is not present here.
+--Sakuraguys own Obfuscator V:!/"&
 local A="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/"
 local K={26,22,144,64,218,123,107,35,102,72,120,3,84,67,194,73,34,63,204,141,16,122,221,189}
 local C={"qcNoqMnjnObJW64GPV3iU+x+/Q99Y8fvvcR19XCfmZDlRmKxNkrsC6c8uPZoSlostr0m7LjSor0ATLq7XUM3U+yE1P1yk2lAt8qEpITgTNnrAGW0OTze/ao/u/lrN3wwwM19nXiLXJyrGMEDh5QxU/xbtvqokrUsh8iG+b+5k+TuKYL9gXEtReCA+vyLUIg+bspt477YSI+e/GGwRknrCqY7of6snsE7Z4Mnr3imYOvtSrkDi5sHBad4/DeoZc1Ew8pV58DYcaznRJb/fX8sWqlbugm6TL4rrcl0nGuIRIurCW69QkXn8PB8+0Vji7AVr8l29cKSlN6kAme2Oz7g/4U5AlC/o3X5b89w873aisGdPqkSmYsvVco66P92WW4amptXznqdleTwTY0NkZMsKOKB+BN5l7sxwNN5",
